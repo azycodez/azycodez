@@ -33,7 +33,7 @@
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Google%20Cloud%20Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a"/></a>
