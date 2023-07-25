@@ -38,6 +38,7 @@
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Adobe Illustrator-informational?style=flat&logo=Adobe Illustrator&logoColor=white&color=2bbc8a"/></a>
   
 </p>
 
