@@ -17,7 +17,7 @@
 🎓 &nbsp; B.Tech. (CSE).\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media.\
-✉️ &nbsp;You can shoot me an email at azycodes@gmail.com!
+✉️ &nbsp;You can shoot me an email at kunalyadav2234@gmail.com!
 
 
 ## 🔧 Technologies & Tools
