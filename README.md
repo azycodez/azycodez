@@ -45,8 +45,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/kunalyadav19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azycodez&layout=compact&theme=radical&&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalyadav19&layout=compact&theme=radical&&langs_count=8" />
 </a>
 <a href="https://github.com/kunalyadav19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=azycodez&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalyadav19&theme=radical" />
 </a>
