@@ -19,6 +19,13 @@
 ✍️ &nbsp;In my free time, I read Books, watch Media.\
 ✉️ &nbsp;You can shoot me an email at kunalyadav2234@gmail.com & azycodes@gmail.com !
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/vibes.kunal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonujana.ig" height="30" width="40" /></a>
+<a href="https://discord.gg/stfu.azy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1070619070468214824" height="30" width="40" /></a>
+</p>
+
+
 
 ## 🔧 Technologies & Tools
 <p align='center'>
