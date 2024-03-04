@@ -1,4 +1,5 @@
-# Hey there! :wave:
+<h1 align="center">Hey there! 👋, I'm Kunal Yadav</h1>
+<h3 align="center">A Passionate coder from India</h3>
 
 [![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://kunalyadav19.github.io/) &nbsp; 
 [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//) &nbsp; 
