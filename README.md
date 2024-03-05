@@ -21,6 +21,9 @@
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media.\
 ✉️ &nbsp;You can shoot me an email at kunalyadav2234@gmail.com & azycodes@gmail.com !
+👨‍💻 All of my projects are available at [https://kunalyadav19.github.io/)
+📫 How to reach me **kunalyadav2234@gmail.com | azycodes@gmail.com**
+⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛💡😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
