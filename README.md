@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Kunal Yadav</h1>
 <h3 align="center">A Passionate coder from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonujana26&label=Profile%20views&color=0e75b6&style=flat" alt="sonujana26" /> </p>
 
 [![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://kunalyadav19.github.io/) &nbsp; 
 [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//) &nbsp; 
