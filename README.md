@@ -65,3 +65,6 @@
 <a href="https://github.com/kunalyadav19">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalyadav19&theme=radical" />
 </a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonujana26&show_icons=true&locale=en&layout=compact" alt="sonujana26" /></p>
