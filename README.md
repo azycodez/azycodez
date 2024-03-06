@@ -67,4 +67,4 @@
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonujana26&show_icons=true&locale=en&layout=compact" alt="sonujana26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalyadav19&" alt="kunalyadav19" /></p>
