@@ -17,10 +17,10 @@
 **👨🏻‍💻 &nbsp;About Me**
 
 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; B.Tech. (CSE).\
+🎓 &nbsp; B.Tech.(CSE) Cyber Security.\
 🌱 &nbsp;I'm on track for learning more about Data Science, Data Management and Software Development.\
 ✍️ &nbsp;In my free time, I read Books, watch Media.\
-👨‍💻 All of my projects are available at [https://kunalyadav19.github.io/)
+👨‍💻 All of my projects are available at @ Portfolio [https://kunalyadav19.github.io/)
 📫 How to reach me **kunalyadav2234@gmail.com | azycodes@gmail.com**
 ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛💡😄**
 
