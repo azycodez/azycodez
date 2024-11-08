@@ -30,9 +30,10 @@
 <a href="
  discordapp.com/users/155007810558623745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1070619070468214824" height="30" width="40" /></a>
 </p>
-## My technical stack
 
-<img align="right" src="./assets/bober.png" width="500">
+## 🔧 Technology Stack
+
+<p align='center'>
 
 #### Containers
 ![DOCKER](https://img.shields.io/badge/-DOCKER-9d4beb?style=for-the-badge&logo=docker&logoColor=ffffff)
@@ -61,6 +62,7 @@
 ![GCP](https://img.shields.io/badge/-GCP-F05032?style=for-the-badge&logo=google&logoColor=ffffff)
 ![OCI](https://img.shields.io/badge/-OCI-F05032?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![DO](https://img.shields.io/badge/-DO-F05032?style=for-the-badge&logo=digitalocean&logoColor=ffffff)
+</p>
 
 
 
