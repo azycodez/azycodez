@@ -30,6 +30,38 @@
 <a href="
  discordapp.com/users/155007810558623745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1070619070468214824" height="30" width="40" /></a>
 </p>
+## My technical stack
+
+<img align="right" src="./assets/bober.png" width="500">
+
+#### Containers
+![DOCKER](https://img.shields.io/badge/-DOCKER-9d4beb?style=for-the-badge&logo=docker&logoColor=ffffff)
+![PODMAN](https://img.shields.io/badge/-PODMAN-9d4beb?style=for-the-badge&logo=podman&logoColor=ffffff)
+![K8S](https://img.shields.io/badge/-K8S-9d4beb?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+#### DBMS
+![MONGODB](https://img.shields.io/badge/-MONGODB-718093?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![MYSQL](https://img.shields.io/badge/-MYSQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-718093?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+#### Server-Side Scripting 
+![PY](https://img.shields.io/badge/-PYTHON-192a56?style=for-the-badge&logo=python&logoColor=ffffff)
+![LUA](https://img.shields.io/badge/-LUA-192a56?style=for-the-badge&logo=lua&logoColor=ffffff)
+![RUBY](https://img.shields.io/badge/-RUBY-192a56?style=for-the-badge&logo=ruby&logoColor=ffffff)
+![POWERSHELL](https://img.shields.io/badge/-POWERSHELL-192a56?style=for-the-badge&logo=powershell&logoColor=ffffff)
+![BASH](https://img.shields.io/badge/-BASH-192a56?style=for-the-badge&logo=shell&logoColor=ffffff)
+#### Infrastructure as code
+![ANSIBLE](https://img.shields.io/badge/-ANSIBLE-ed2165?style=for-the-badge&logo=ansible&logoColor=ffffff)
+![TERRAFORM](https://img.shields.io/badge/-TERRAFORM-ed2165?style=for-the-badge&logo=terraform&logoColor=ffffff)
+![HELM](https://img.shields.io/badge/-HELM-ed2165?style=for-the-badge&logo=helm&logoColor=ffffff)
+#### Server Operation systems
+![DEBIAN](https://img.shields.io/badge/-DEBIAN-40739e?style=for-the-badge&logo=debian&logoColor=ffffff)
+![RHEL](https://img.shields.io/badge/-RHEL-40739e?style=for-the-badge&logo=redhat&logoColor=ffffff)
+![FREEBSD](https://img.shields.io/badge/-FREEBSD-40739e?style=for-the-badge&logo=freebsd&logoColor=ffffff)
+#### Clouds
+![AWS](https://img.shields.io/badge/-AWS-F05032?style=for-the-badge&logo=amazon&logoColor=ffffff)
+![GCP](https://img.shields.io/badge/-GCP-F05032?style=for-the-badge&logo=google&logoColor=ffffff)
+![OCI](https://img.shields.io/badge/-OCI-F05032?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![DO](https://img.shields.io/badge/-DO-F05032?style=for-the-badge&logo=digitalocean&logoColor=ffffff)
+
 
 
 
