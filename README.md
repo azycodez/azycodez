@@ -31,7 +31,7 @@
  discordapp.com/users/155007810558623745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1070619070468214824" height="30" width="40" /></a>
 </p>
 
-## 🔧 Technology Stack
+## 🔧 DevOps Technology Stack
 
 <p align='center'>
 
@@ -62,24 +62,23 @@
 ![GCP](https://img.shields.io/badge/-GCP-F05032?style=for-the-badge&logo=google&logoColor=ffffff)
 ![OCI](https://img.shields.io/badge/-OCI-F05032?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![DO](https://img.shields.io/badge/-DO-F05032?style=for-the-badge&logo=digitalocean&logoColor=ffffff)
+#### FrontEnd
+
+ <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
+  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/></a>
+   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/></a>
 </p>
 
 
 
 
-## 🔧 Technologies
+## 💻 Other Technologies & Tools
 <p align='center'>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-React%20Js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Google%20Cloud%20Storage-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a"/></a>
-  <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/></a>
@@ -87,9 +86,6 @@
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a"/></a>
   <a href="https://github.com/azycodez"><img src="https://img.shields.io/badge/Code-Adobe Illustrator-informational?style=flat&logo=Adobe Illustrator&logoColor=white&color=2bbc8a"/></a>
   
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 
 ## &#x1f4c8; GitHub Stats
